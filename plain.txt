@@ -1,0 +1,2 @@
+This is a plain text file for testing browser rendering of text/plain content types.
+It does not contain any HTML markup and should be displayed purely as unstyled text by the browser.
